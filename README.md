@@ -5,11 +5,9 @@
 This repository contains supplementary material for the preprint "Benchmarking 
 Clinical Reasoning in Large Language Models: A Comparative Assessment Study"
 
-Medical University of Vienna, Institute for Artificial Intelligence,
-Center for Medical Data Science (2025)
+Medical University of Vienna, Institute for Artificial Intelligence
 
 > Preprint: [link to be added]
-
 ---
 
 ## Overview
