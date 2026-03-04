@@ -44,7 +44,7 @@ of whether and how these strategies are employed across both benchmark formats.
 
 If you use the datasets provided here, please cite the original contributors:
 
-**MedQA-USMLE** is a publicly available dataset of USMLE-style multiple-choice
+**MedQA-USMLE** is a publicly available dataset of USMLE multiple-choice
 questions introduced by Jin et al. (2021). The test split comprises 1,273
 four-option questions sourced from real US medical licensing examinations.
 Original dataset: https://github.com/jind11/MedQA
