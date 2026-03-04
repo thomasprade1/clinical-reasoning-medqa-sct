@@ -33,7 +33,7 @@ of whether and how these strategies are employed across both benchmark formats.
 
 - **notebooks** – Jupyter notebooks for model querying and data analysis
 - **prompts** – CoT clinical reasoning instruction prompt templates for MedQA-USMLE and
-  SCT-Bench; the core methodological contribution of this work
+  SCT-Bench
 - **data** – benchmark datasets as obtained from their original sources
 - **results** – per-question output files including full model responses, ratings,
   uncertainty scores, reasoning strategy labels and question-level statistics
